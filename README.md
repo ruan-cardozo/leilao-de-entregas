@@ -16,4 +16,3 @@
 * Sistemas de Navegação e Robótica – Planejamento de caminhos para veículos autônomos.
 * IA em Jogos – NPCs que navegam em mapas usando A*.
 * Detecção de Fraude – Bancos usam grafos para identificar padrões suspeitos.
- 
